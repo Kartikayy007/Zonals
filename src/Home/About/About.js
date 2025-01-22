@@ -41,8 +41,8 @@ const About = () => {
                     <h1>About Us</h1>
                 </div>
                 <div className="para">
-                    <p className='pa'>The 24<sup>th</sup> annual Ajay Kumar Garg Memorial Table Tennis
-                        Tournament is to be conducted on <b>19-20 November 2022</b> at Ajay Kumar Garg Engineering
+                    <p className='pa'>The 26<sup>th</sup> annual Ajay Kumar Garg Memorial Table Tennis
+                        Tournament is to be conducted on <b>15-16 February 2025</b> at Ajay Kumar Garg Engineering
                         College in association with GATT- Affiliated with UPTTA. This tournament is state level which
                         is held every year for all professional institutions and schools of the state. Various teams mark
                         their participation in 10 different categories for men and women separately in individual and team

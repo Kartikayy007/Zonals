@@ -26,7 +26,7 @@ const Home = () => {
                     <div className='details'>
                         <div className='Main-Heading'>
                             <h1>
-                                24<sup>th</sup>  AJAY KUMAR GARG MEMORIAL
+                                26<sup>th</sup>  AJAY KUMAR GARG MEMORIAL
                             </h1>
                             <h1>
                                 TABLE TENNIS TOURNAMENT
@@ -40,7 +40,7 @@ const Home = () => {
                                 </div>
                                 <div className='text'>
                                     <h1>
-                                        19-20 November 2022
+                                        15-16 February 2025
                                     </h1>
                                 </div>
                             </div>
