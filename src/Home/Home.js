@@ -210,39 +210,28 @@ const Home = () => {
                         <li>
                             <div className='arrange'>
                                 <div className='student-name' style={{fontFamily: "Gilroy"}}>
-                                Srijan Singh Bhanwag
-                                </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (7286886864)
+                                    Prateek Singh
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                Abhiroop Tomar
-                                </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (9810782291)
+                                    Srishti Gupta
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                Umang Gupta
-                                </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (8077121060)
+                                    Jay Singh
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                    Palak Tyagi
-                                </div>
-                                <div>
+                                    Kanishk Upadhyay
                                 </div>
                             </div>
                         </li>
