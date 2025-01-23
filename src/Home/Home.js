@@ -181,7 +181,7 @@ const Home = () => {
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                    SH. Rajeev Sharma
+                                    Sh. Rajeev Sharma
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
                                     (9818085060)
@@ -191,7 +191,7 @@ const Home = () => {
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                    MR. Pratap Singh
+                                    Mr. Pratap Singh
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
                                     (9213709657)

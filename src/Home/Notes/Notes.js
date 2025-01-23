@@ -8,9 +8,9 @@ const Notes = () => {
                 <h1>Notes</h1>
             </div>
             <div className='criteria'>
-                <div className='event-recap'>
+                {/* <div className='event-recap'>
                     <p>The 26th annual Ajay Kumar Garg Memorial Table Tennis Tournament is to be conducted on 15-16 February 2025 at Ajay Kumar Garg Engineering College, Ghaziabad. This prestigious event is organized in collaboration with GATT - affiliated with UPTTA, and holds recognition at the state level. Drawing participation from esteemed professional institutions and schools across the state, the tournament encompasses a variety of team competitions and individual events for both men and women. A substantial prize fund has been allocated to elevate the competitive spirit, emphasizing excellence and sportsmanship throughout the event. It serves as a platform to showcase the exceptional talents of State-ranked table tennis players, attracting teams from prominent cities such as Allahabad, Lucknow, Moradabad, Meerut, Agra, Noida and Ghaziabad, besides enthusiastic response from the neighbouring schools and colleges.</p>
-                </div>
+                </div> */}
                 <ul>
                     <li>
                         Top 8 ranked players of State in Men/Women/Youth Boys and Girls/ Junior Boys and Girls shall be

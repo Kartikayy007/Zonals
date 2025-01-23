@@ -9,7 +9,7 @@ const Fee = () => {
             </div>
             <div className='schedule-info'>
                 <p>Last Date: Entries close on 11th February 2025</p>
-                <p>Reporting/Registration time: 8:00 AM for all events. Matches schedule to be published by 01.02.2025</p>
+                <p>Reporting/Registration time: 8:00 AM for all events. Matches schedule to be published by 13.02.2025</p>
             </div>
             <Table responsive>
                 <thead>
