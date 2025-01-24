@@ -2,19 +2,19 @@ import React from 'react'
 import about from "../about.svg"
 import "./About.css"
 import SimpleImageSlider from "react-simple-image-slider";
-import image1 from '../Images/tenis1.jfif'
-import image2 from '../Images/tenis2.jfif'
-import image3 from '../Images/tenis3.jfif'
-import image4 from '../Images/tenis4.jfif'
-import image5 from '../Images/tenis5.jfif'
-import image6 from '../Images/tenis6.jfif'
-import image7 from '../Images/tenis7.jfif'
-import image8 from '../Images/tenis8.jfif'
-import image9 from '../Images/tenis9.jfif'
-import image10 from '../Images/tenis10.jfif'
-import image11 from '../Images/tenis11.jfif'
-import image12 from '../Images/tenis12.jfif'
-import image13 from '../Images/tenis13.jfif'
+import image1 from '../Images/tt1.jpeg'
+import image2 from '../Images/tt2.jpeg'
+import image3 from '../Images/tt3.jpeg'
+import image4 from '../Images/tt4.jpeg'
+import image5 from '../Images/tt5.jpeg'
+import image6 from '../Images/tt6.jpeg'
+import image7 from '../Images/tt7.jpeg'
+import image8 from '../Images/tt8.jpeg'
+import image9 from '../Images/tt9.jpeg'
+// import image10 from '../Images/tt10.jpeg'
+// import image11 from '../Images/tt11.jpeg'
+// import image12 from '../Images/tt12.jpeg'
+// import image13 from '../Images/tt13.jpeg'
 
 const About = () => {
 
@@ -28,10 +28,10 @@ const About = () => {
         { url: image7 },
         { url: image8 },
         { url: image9 },
-        { url: image10 },
-        { url: image11 },
-        { url: image12 },
-        { url: image13 },
+        // { url: image10 },
+        // { url: image11 },
+        // { url: image12 },
+        // { url: image13 },
       ];
 
     return (
@@ -47,8 +47,8 @@ const About = () => {
                         is held every year for all professional institutions and schools of the state. Various teams mark
                         their participation in 10 different categories for men and women separately in individual and team
                         events. A huge amount is kept as the prize money.
-                        Last Year the tournament had top eight State ranked Table Tennis players and 21 teams with a
-                        total of 180 participants from the Cities of <b>Allahabad, Lucknow, Moradabad, Meerut, Agra, Noida
+                        Last Year the tournament had top eight State ranked Table Tennis players and 24 teams with a
+                        total of 255 participants from the Cities of <b>Allahabad, Lucknow, Moradabad, Meerut, Agra, Noida
                             and Ghaziabad,</b> besides enthusiastic response from the neighbouring schools and colleges.</p>
                     <div className='about-us-image'>
                         <SimpleImageSlider

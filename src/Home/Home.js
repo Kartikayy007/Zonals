@@ -13,6 +13,7 @@ import Schedule from './Schedule/Schedule';
 import Last from './Last/Last';
 import Video from 'react-responsive-video'
 import file from './Images/file.mp4'
+import EventRecap from './EventRecap/EventRecap';
 
 const Home = () => {
 
@@ -68,6 +69,7 @@ const Home = () => {
         </div>
 
         <About />
+        <EventRecap />
         <Eligibility />
         <Prizes />
         <Schedule />
@@ -95,14 +97,14 @@ const Home = () => {
                         <div>
                             <p style={{ margin: "0", padding: "0" }}><b>Add:</b> A.K.G. Engineering College,</p>
                             <p style={{ margin: "0", padding: "0" }}> 
-                            NH-24, Delhi-Hapur ByPass Road, Ghaziabad </p>
+                            NH-24, Delhi-Hapur Bypass Road, Ghaziabad </p>
                         </div>
                     </div>
 
 
                     <div className='arrange' >
                         <div>
-                            <b>Ph.</b> 8744052891 to 94, 7290034976 7290034978
+                        <b>Ph.</b> 0120-2762841 to 51, Extn. 4321, Fax: 0120-2767844 
                         </div>
 
                     </div>
@@ -139,7 +141,7 @@ const Home = () => {
                     <div>
                             <p style={{ margin: "0", padding: "0" }}><b>Add:</b> A.K.G. Engineering College,</p>
                             <p style={{ margin: "0", padding: "0" }}> 
-                            NH-24, Delhi-Hapur ByPass Road, Ghaziabad </p>
+                            NH-24, Delhi-Hapur Bypass Road, Ghaziabad </p>
                         </div>
                     </div>
 
