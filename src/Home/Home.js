@@ -116,7 +116,7 @@ const Home = () => {
                     </div>
                     <div className='arrange' >
                         <div>
-                            <b>Email:</b> sports@akgec.ac.in
+                            <b>Email:</b>  akgecor@akgec.org
                         </div>
 
                     </div>
