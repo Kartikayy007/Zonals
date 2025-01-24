@@ -11,7 +11,7 @@ const Last = () => {
                 <div className="paragraph">
                     <p>
                         <ul>
-                            <li>Entries will be closed on <b>15<sup>th</sup> February 2025.</b></li>
+                            <li>Entries will be closed on <b>11<sup>th</sup> February 2025.</b></li>
                             <li>To register send your entry form on WhatsApp or Email it to <b>Pratap Singh (Sports Officer) or Rajeev Sharma (Organizing Secretary)</b>.</li>
                         </ul>                        
                     </p>
