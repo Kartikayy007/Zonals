@@ -29,63 +29,63 @@ const Prizes = () => {
                 <tbody>
                     <tr>
                         <td><b>Winner</b></td>
-                        <td>8000</td>
-                        <td>8000</td>
+                        <td>12000</td>
+                        <td>12000</td>
+                        <td>7500</td>
+                        <td>7500</td>
                         <td>5000</td>
                         <td>5000</td>
-                        <td>3500</td>
-                        <td>3500</td>
-                        <td>3500</td>
-                        <td>3500</td>
-                        <td><b>40000</b></td>
+                        <td>5000</td>
+                        <td>5000</td>
+                        <td><b>59000</b></td>
                     </tr>
                     <tr>
                         <td><b>Runner Up</b></td>
+                        <td>9000</td>
+                        <td>9000</td>
                         <td>6000</td>
                         <td>6000</td>
-                        <td>4000</td>
-                        <td>4000</td>
-                        <td>2000</td>
-                        <td>2000</td>
-                        <td>2000</td>
-                        <td>2000</td>
-                        <td><b>28000</b></td>
+                        <td>3000</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                        <td><b>42000</b></td>
                     </tr>
                     <tr>
                         <td><b>Semi Finalist 1</b></td>
+                        <td>4500</td>
+                        <td>4500</td>
                         <td>3000</td>
                         <td>3000</td>
                         <td>2000</td>
                         <td>2000</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td><b>16000</b></td>
+                        <td>2500</td>
+                        <td>2500</td>
+                        <td><b>24000</b></td>
                     </tr>
                     <tr>
                         <td><b>Semi Finalist 2</b></td>
+                        <td>4500</td>
+                        <td>4500</td>
                         <td>3000</td>
                         <td>3000</td>
                         <td>2000</td>
                         <td>2000</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td>1500</td>
-                        <td><b>16000</b></td>
+                        <td>2500</td>
+                        <td>2500</td>
+                        <td><b>24000</b></td>
                     </tr>
                     <tr>
                         <td><b>Total</b></td>
-                        <td>20000</td>
-                        <td>20000</td>
+                        <td>30000</td>
+                        <td>30000</td>
+                        <td>19500</td>
+                        <td>19500</td>
+                        <td>12000</td>
+                        <td>12000</td>
                         <td>13000</td>
                         <td>13000</td>
-                        <td>8500</td>
-                        <td>8500</td>
-                        <td>8500</td>
-                        <td>8500</td>
-                        <td><b>100000</b></td>
+                        <td><b>149000</b></td>
                     </tr>
                 </tbody>
             </Table>
