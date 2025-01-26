@@ -9,7 +9,7 @@ const Prizes = () => {
                 <h1>Prizes</h1>
             </div>
             <div className='prize-info'>
-                <p>Mementos and prizes worth Rs 1,00,000/-, as under will be awarded.</p>
+                <p>Mementos and prizes worth Rs 1,50,000/-, as under will be awarded.</p>
             </div>
             <Table responsive>
                 <thead>
@@ -88,7 +88,7 @@ const Prizes = () => {
                         <td><b>149000</b></td>
                     </tr>
                 </tbody>
-            </Table>
+            </Table>    
             <div>
                 <p className='pa'>Prizes may be reduced for less than 12 entries in any event.</p>
             </div>

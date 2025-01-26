@@ -63,9 +63,9 @@ const Home = () => {
         </div>
 
         <div className='py-4 px-2' id='about'>
-        <Video mp4={file} 
+        {/* <Video mp4={file} 
             height={[300, 400, 480, 560].map(n => n + 'px')}
-            objectFit={`contain`}/>
+            objectFit={`contain`}/> */}
         </div>
 
         <About />

@@ -54,14 +54,14 @@ const Fee = () => {
                         <td>5.</td>
                         <td>Boys</td>
                         <td>Under 19 yrs.</td>
-                        <td>Born on after 1.1.2006</td>
+                        <td>Born on after 1.1.2007</td>
                         <td><b>500.00</b></td>
                     </tr>
                     <tr>
                         <td>6.</td>
                         <td>Girls</td>
                         <td>Under 19 yrs.</td>
-                        <td>Born on after 1.1.2006</td>
+                        <td>Born on after 1.1.2007</td>
                         <td><b>500.00</b></td>
                     </tr>
                     <tr>
