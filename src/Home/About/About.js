@@ -11,6 +11,7 @@ import image6 from '../Images/tt6.jpeg'
 import image7 from '../Images/tt7.jpeg'
 import image8 from '../Images/tt8.jpeg'
 import image9 from '../Images/tt9.jpeg'
+import image10 from '../Images/tt10.jpg'
 // import image10 from '../Images/tt10.jpeg'
 // import image11 from '../Images/tt11.jpeg'
 // import image12 from '../Images/tt12.jpeg'
@@ -28,7 +29,7 @@ const About = () => {
         { url: image7 },
         { url: image8 },
         { url: image9 },
-        // { url: image10 },
+        { url: image10 },
         // { url: image11 },
         // { url: image12 },
         // { url: image13 },
