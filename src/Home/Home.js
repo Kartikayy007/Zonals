@@ -13,6 +13,7 @@ import Schedule from './Schedule/Schedule';
 import Last from './Last/Last';
 import Video from 'react-responsive-video'
 import file from './Images/file.mp4'
+import file2 from './Images/file2.mp4'
 import EventRecap from './EventRecap/EventRecap';
 
 const Home = () => {
@@ -63,9 +64,9 @@ const Home = () => {
         </div>
 
         <div className='py-4 px-2' id='about'>
-        {/* <Video mp4={file} 
+        <Video mp4={file2} 
             height={[300, 400, 480, 560].map(n => n + 'px')}
-            objectFit={`contain`}/> */}
+            objectFit={`contain`}/>
         </div>
 
         <About />
@@ -116,7 +117,7 @@ const Home = () => {
                     </div>
                     <div className='arrange' >
                         <div>
-                            <b>Email:</b>  akgecor@akgec.org
+                            <b>Email:</b>  sports@akgec.ac.in
                         </div>
 
                     </div>
