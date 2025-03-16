@@ -15,7 +15,7 @@ const EventRecap = () => {
                     <h1>Event Recap</h1>
                 </div>
                 <div className="par1">
-                <p className="pa">AKGEC organised the <b>25th edition</b> of the prestigious annual sports event, the <b>Ajay Kumar Garg Memorial Table Tennis Tournament</b>, under the aegis of the <b>Ghaziabad Association of Table Tennis (GATT)</b>, affiliated with the <b>Uttar Pradesh Table Tennis Association</b> in the college during <b>03-04 February 2024</b>. The <b>National Level Tournament</b> is held every year for all professional institutes, colleges, and schools of the country.</p>
+                <p className="pa">AKGEC organised the <b>25th edition</b> of the prestigious annual sports event, the <b>Ajay Kumar Garg Memorial Table Tennis Tournament</b>, under the aegis of the <b>Ghaziabad Association of Table Tennis (GATT)</b>, affiliated with the <b>Uttar Pradesh Table Tennis Association</b> in the college during <b>03-04 February 2024</b>. The <b>National Level Tournament</b> was held for all professional institutes, colleges, and schools of the country.</p>
     <p className="par">The tournament was participated by <b>24 teams</b> and <b>222 participants</b> in the singles category from various parts of India like <b>Uttar Pradesh, Haryana, and Delhi</b>. Participation by <b>State and National level players</b> raised the level of the game to high standards during the tournament.</p>
     <p className="par">The tournament was a <b>huge success</b> as young players mesmerized everyone with their skillful game. The winners cherished their moments while others vowed to come back <b>stronger next year</b>.</p>
                 </div>
@@ -41,34 +41,34 @@ const EventRecap = () => {
     <tbody>
         <tr>
             <td colspan="2">
-                Men’s Team
+                Men's Team
             </td>
             <td>
-                Sarth Mishra<br/>Sarthak seth<br/>Faisal Ali<br/>Kashish
+                JKG Team
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                Women’s Team
+                Women's Team
             </td>
             <td>
-                Gungun<br/>Srishti<br/>Prerna
+                LPU
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                Men’s Single
+                Men's Single
             </td>
             <td>
-                Divyansh Srivastava
+                Sarth Mishra
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                Women’s Single
+                Women's Single
             </td>
             <td>
-                Shrishti Jaiswal
+                Lakshita Narang
             </td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@ const EventRecap = () => {
                 Junior Boys ({'<'}19 years)
             </td>
             <td>
-                Veer Balmiki
+                Piyush Sharma
             </td>
         </tr>
         <tr>
@@ -84,7 +84,7 @@ const EventRecap = () => {
                 Junior Girls ({'<'}19 years)
             </td>
             <td>
-                Ayushi Singhal
+                Anokhi Kesri
             </td>
         </tr>
         <tr>
@@ -92,7 +92,7 @@ const EventRecap = () => {
                 Men Doubles
             </td>
             <td>
-                Sarth Mishra<br/>Divyansh Srivastava
+                Vansh/Sameer
             </td>
         </tr>
         <tr>
@@ -100,7 +100,7 @@ const EventRecap = () => {
                 Mixed Doubles
             </td>
             <td>
-                Sarth Mishra<br/>Aarti Chaudhary
+                Sarth/Arti
             </td>
         </tr>
         <tr>
@@ -108,7 +108,15 @@ const EventRecap = () => {
                 Veteran Men ({'>'}40 Years)
             </td>
             <td>
-                Sumit Nagpal
+                Sameer Sahni
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Veteran Women ({'>'}40 Years)
+            </td>
+            <td>
+                Neelam Chhabar
             </td>
         </tr>
     </tbody>
